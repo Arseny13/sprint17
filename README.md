@@ -1643,6 +1643,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть True если дерево является анаграммой. Иначе - False.
 </details>
+
 ---
 
 <details>
@@ -1659,6 +1660,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть True если деревья являются близнецами. Иначе - False.
 </details>
+
 ---
 
 <details>
@@ -1675,6 +1677,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть True, если дерево является деревом поиска, иначе - False.
 </details>
+
 ---
 
 <details>
@@ -1691,6 +1694,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть число, равное максимальному числу островов в пути (включая начальный и конечный пункты).
 </details>
+
 ---
 
 <details>
@@ -1718,6 +1722,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть число, равное максимальному количеству очков, которое можно заработать, попав из города А в город В.
 </details>
+
 ---
 
 <details>
@@ -1734,6 +1739,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть число, равное сумме чисел всех путей в дереве.
 </details>
+
 ---
 
 <details>
@@ -1748,6 +1754,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Нужно вывести число, равное количеству различных деревьев поиска, в узлах которых могут быть размещены числа от 1 до n включительно.
 </details>
+
 ---
 
 <details>
@@ -1765,6 +1772,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна вернуть True, если дерево является деревом поиска, иначе - False.
 </details>
+
 ---
 
 <details>
@@ -1782,6 +1790,7 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат вывода
 Функция должна напечатать по неубыванию все ключи от  L до R по одному в строке.
 </details>
+
 ---
 
 <details>
