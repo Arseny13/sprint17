@@ -1682,7 +1682,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Максимальная глубина(<a href="tree/e.py">e.py</a>)</b>
+<b>Максимальная глубина(<a href="tree/max_depth.py">max_depth.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1699,7 +1699,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Максимальный путь в дереве(<a href="tree/max_path_in_tree.py.py">max_path_in_tree.py.py</a>)</b>
+<b>Максимальный путь в дереве(<a href="tree/max_path_in_tree.py">max_path_in_tree.py</a>)</b>
 </summary>
 
 #### Условие
