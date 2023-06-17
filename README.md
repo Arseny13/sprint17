@@ -1597,22 +1597,23 @@ gggggooooogggggoooooogggggssshaa <br>
 ---
 
 <details>
-<summary>
-<b>Лампочки (<a href="tree/a.py">a.py</a>)</b>
-</summary>
-#### Условие
-Гоша повесил на стену гирлянду в виде бинарного дерева, в узлах которого находятся лампочки. У каждой лампочки есть своя яркость. Уровень яркости лампочки соответствует числу, расположенному в узле дерева. Помогите Гоше найти самую яркую лампочку в гирлянде, то есть такую, у которой яркость наибольшая.
-#### Формат ввода
-На вход подается корень дерева.
-#### Формат вывода
-Функция должна вернуть максимальное значение яркости в узле дерева.
+  <summary>
+  <b>Лампочки (<a href="tree/lamps.py">lamps.py</a>)</b>
+  </summary>
+
+  #### Условие
+  Гоша повесил на стену гирлянду в виде бинарного дерева, в узлах которого находятся лампочки. У каждой лампочки есть своя яркость. Уровень яркости лампочки соответствует числу, расположенному в узле дерева. Помогите Гоше найти самую яркую лампочку в гирлянде, то есть такую, у которой яркость наибольшая.
+  #### Формат ввода
+  На вход подается корень дерева.
+  #### Формат вывода
+  Функция должна вернуть максимальное значение яркости в узле дерева.
 </details>
 
 ---
 
 <details>
 <summary>
-<b>Сбалансированное дерево(<a href="tree/e.py">e.py</a>)</b>
+<b>Сбалансированное дерево(<a href="tree/balanced_tree.py">balanced_tree.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1629,7 +1630,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Дерево - анаграмма(<a href="tree/e.py">e.py</a>)</b>
+<b>Дерево - анаграмма(<a href="tree/tree_anagram.py">tree_anagram.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1646,7 +1647,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Деревья - близнецы(<a href="tree/e.py">e.py</a>)</b>
+<b>Деревья - близнецы(<a href="tree/tree_twins.py">tree_twins.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1662,7 +1663,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Дерево поиска(<a href="tree/e.py">e.py</a>)</b>
+<b>Дерево поиска(<a href="tree/tree_search.py">tree_search.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1694,7 +1695,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Максимальный путь в дереве(<a href="tree/e.py">e.py</a>)</b>
+<b>Максимальный путь в дереве(<a href="tree/max_path_in_tree.py.py">max_path_in_tree.py.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1721,7 +1722,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Числовые пути(<a href="tree/e.py">e.py</a>)</b>
+<b>Числовые пути(<a href="tree/number_paths.py">number_paths.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1737,7 +1738,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Разные деревья поиска(<a href="tree/e.py">e.py</a>)</b>
+<b>Разные деревья поиска(<a href="tree/diff_tree_search.py">diff_tree_search.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1751,7 +1752,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Добавь узел(<a href="tree/e.py">e.py</a>)</b>
+<b>Добавь узел(<a href="tree/insert_node.py">insert_node.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1768,7 +1769,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b> Выведи диапазон(<a href="tree/e.py">e.py</a>)</b>
+<b> Выведи диапазон(<a href="tree/print_range.py">print_range.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1785,7 +1786,7 @@ gggggooooogggggoooooogggggssshaa <br>
 
 <details>
 <summary>
-<b>Просеивание вниз(<a href="tree/e.py">e.py</a>)</b>
+<b>Просеивание вниз(<a href="tree/sift_down.py">sift_down.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1796,11 +1797,12 @@ gggggooooogggggoooooogggggssshaa <br>
 #### Формат ввода
 Элементы кучи —– целые числа, лежащие в диапазоне от −10**9 до 10**9. Все элементы кучи уникальны. Передаваемый в функцию индекс лежит в диапазоне от 1 до размера передаваемого массива. В куче содержится от 1 до 10**5 элементов.
 </details>
+
 ---
 
 <details>
 <summary>
-<b> Просеивание вверх(<a href="tree/e.py">e.py</a>)</b>
+<b> Просеивание вверх(<a href="tree/sift_up.py">sift_up.py</a>)</b>
 </summary>
 
 #### Условие
@@ -1812,11 +1814,12 @@ v это 2v и 2v+1. Обратите внимание, что нулевой э
 #### Формат ввода
 Элементы кучи —– целые числа, лежащие в диапазоне от −10**9 до 10**9. Все элементы кучи уникальны. Передаваемый в функцию индекс лежит в диапазоне от 1 до размера передаваемого массива. В куче содержится от 1 до 10**5 элементов.
 </details>
+
 ---
 
 <details>
 <summary>
-<b>Разбиение дерева(<a href="tree/e.py">e.py</a>)</b>
+<b>Разбиение дерева(<a href="tree/split_tree.py">split_tree.py</a>)</b>
 </summary>
 
 #### Условие
